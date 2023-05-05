@@ -1,4 +1,5 @@
 # Paragraph Analyzer
+By Aditya Sengupta
 
 Are you struggling to vary your sentence structure while writing an essay? Do you fear that readers might get bored with repetitive sentence starters? Well, fear no more because introducing the Paragraph Analyzer! With this amazing tool, you can enter a paragraph you have written and get the word counts of each sentence and the first word used in each sentence.
 
